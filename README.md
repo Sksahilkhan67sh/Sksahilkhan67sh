@@ -1,333 +1,234 @@
-<div align="center">
+<h1 align="center">⛏️ SAHIL KHAN</h1>
+<h3 align="center">React.js Developer | Frontend Developer</h3>
 
-<!-- ============ HEADER BANNER ============ -->
-<!-- 💡 Replace this banner image with your own Minecraft-style banner if you have one. A free option: use an https://capsule-render.vercel.app URL like below -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:5D4E37&height=220&section=header&text=SAHIL%20KHAN&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20of%20Digital%20Worlds&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend-focused+Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Mining+knowledge.+Crafting+builds.;B.Tech+CSE+%272026" alt="Typing SVG" />
+</p>
 
-<!-- ============ TYPING ANIMATION ============ -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1200&color=55A630&center=true&vCenter=true&width=650&lines=%E2%9B%8F+MINING+NEW+TECHNOLOGIES...;%F0%9F%A7%B1+CRAFTING+FULL-STACK+PRODUCTS...;%E2%9A%94%EF%B8%8F+FIGHTING+BUGS+ONE+COMMIT+AT+A+TIME...;%F0%9F%8F%86+LEVEL%3A+FINAL+YEAR+DEVELOPER" alt="Typing SVG" />
-</a>
-
-<br/>
-
-`PLAYER: SAHIL_KHAN` &nbsp;|&nbsp; `CLASS: SOFTWARE DEVELOPER` &nbsp;|&nbsp; `GUILD: FOUNDER @ ALIGNCRAFT`
-
-<br/>
-
-<!-- ============ BADGES ============ -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-55A630?style=for-the-badge&logo=minecraft&logoColor=white"/>
-<img src="https://img.shields.io/badge/WORLD-BHUBANESWAR%2C_INDIA-8B5A2B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-HARDCORE_SHIPPING-CB2D3E?style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- 💡 Replace with your actual portfolio / GitHub / socials -->
-<a href="https://portfolio-sahil-chi.vercel.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_WORLD-2E7D32?style=flat-square"/></a>
-<a href="https://github.com/Sksahilkhan67sh"><img src="https://img.shields.io/badge/💻_GITHUB-Sksahilkhan67sh-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<!-- [ADD YOUR LINKEDIN URL] -->
-<a href="#"><img src="https://img.shields.io/badge/💼_LINKEDIN-ADD_YOUR_LINK-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-> 🌍 **Welcome to Sahil's Digital World.**
-> Every repository is a chunk I've generated. Every commit is another block placed. This world started loading in college — it hasn't stopped rendering since.
-
-<br/>
-
----
-
-## 🎮 Player Profile
-
-```yaml
-Class:          Software Developer
-Guild:          Founder @ AlignCraft
-Current Realm:  Bhubaneswar, India  # [ADD YOUR CURRENT/TARGET LOCATION IF DIFFERENT]
-Status:         Final-Year B.Tech CSE (2026)
-Playstyle:      Full-stack builder — ships MERN, Next.js & Spring Boot worlds
-Currently Mining: [ADD WHAT YOU'RE CURRENTLY LEARNING]
-End Goal:       [ADD THE KIND OF DEVELOPER YOU WANT TO BECOME]
+```text
+╔══════════════════════════════════════════════╗
+║              🌍 PLAYER PROFILE               ║
+╠══════════════════════════════════════════════╣
+║ 👤 PLAYER   : SAHIL KHAN                     ║
+║ ⚔️ CLASS    : FRONTEND DEVELOPER             ║
+║ 🧩 ROLE     : FULL STACK DEVELOPER           ║
+║ ⭐ XP       : CODING • PROJECTS • LEARNING   ║
+║ 🌎 WORLD    : GITHUB                         ║
+╚══════════════════════════════════════════════╝
 ```
 
-**Who I am** — A final-year Computer Science student who builds full production systems, not tutorials. Founder of **AlignCraft**, a product-based software company. I've shipped SaaS platforms, live-streaming infrastructure, and interview-intelligence tools — solo, end to end.
+---
 
-**What I build** — Real, deployed products: auth systems, billing, real-time infrastructure, AI-powered platforms. If it's in my world, it runs in production, not just on `localhost`.
+## 👨‍💻 About Me
 
-<br/>
+I'm a **React.js Developer** and frontend-focused **Full Stack Developer**, currently pursuing my **B.Tech in Computer Science Engineering**. I spend most of my time crafting responsive interfaces with **React.js** and **JavaScript**, and connecting them to backends built with **Node.js / Express.js** and **REST APIs**. Comfortable working across the stack — from the UI down to the API layer.
+
+> "Every contribution adds another block to the world."
 
 ---
 
-## ⛏️ My Inventory
+## 🎒 My Inventory
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### ⚔️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🧱 Languages**
+### 🧱 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
+### 📦 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <sub>(used in RelayHub)</sub>
 
-**⚙️ Frameworks & Libraries**
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**🗄️ Databases & ORMs**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<!-- [ADD ANY OTHER DATABASES YOU USE] -->
-
-</td>
-<td valign="top" width="50%">
-
-**🛠️ Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<!-- [ADD/REMOVE TOOLS TO MATCH WHAT YOU ACTUALLY USE] -->
-
-</td>
-</tr>
-</table>
-
-<br/>
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <sub>(used in Stream Vault)</sub>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) <sub>(used in Stream Vault)</sub>
 
 ---
 
 ## 🏗️ My Builds
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏰 StreamVault
-**🎯 What it does:** A live streaming platform with real-time WebRTC broadcasting, live captions, polls, and RTMP crossposting.
-**🧰 Stack:** Next.js 15 · Node.js/Express · Socket.io · Prisma · LiveKit · PostgreSQL
-**⭐ Key feature:** Real-time captions via Web Speech API + server-side stream recording
-**🔗 Repo:** `[ADD YOUR STREAMVAULT REPO LINK]`
-**🌐 Live:** `[ADD LIVE DEMO LINK IF AVAILABLE]`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏰 Intervoxa AI
-**🎯 What it does:** A production SaaS for AI-powered technical interview prep, with FSM-based interview sessions and multi-dimension answer scoring.
-**🧰 Stack:** NestJS · Next.js 15 · Turborepo · pgvector · BullMQ · Stripe
-**⭐ Key feature:** 9-dimension AI answer scoring with TTS/STT interview flow
-**🔗 Repo:** `[ADD YOUR INTERVOXA AI REPO LINK]`
-**🌐 Live:** `[ADD LIVE DEMO LINK IF AVAILABLE]`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏰 RelayHub
-**🎯 What it does:** Production-grade webhook and event delivery infrastructure with retries, HMAC signing, and a full admin panel.
-**🧰 Stack:** FastAPI · Next.js 14 · Celery · Turborepo/pnpm
-**⭐ Key feature:** 13-module backend with HMAC-signed delivery and Stripe billing
-**🔗 Repo:** `[ADD YOUR RELAYHUB REPO LINK]`
-**🌐 Live:** `[ADD LIVE DEMO LINK IF AVAILABLE]`
+Full-stack developer platform for unifying and managing API integrations.
 
-</td>
-<td width="50%" valign="top">
+```text
+🏰 RELAYHUB
+│
+├── 🧱 React Frontend
+├── ⚙️ Node.js / Express
+├── 📡 REST APIs
+├── 🔐 JWT Authentication
+├── ⚡ WebSocket Notifications
+└── 📦 PostgreSQL / MySQL
+```
 
-### 🏰 CRAFT — AI Operating System
-**🎯 What it does:** A desktop AI agent that understands voice, plans tasks, and executes actions on your computer — built to act like an AI employee, not a chatbot.
-**🧰 Stack:** Tauri v2 · React · TypeScript · Python/FastAPI · Playwright
-**⭐ Key feature:** Voice-driven task planning with local + cloud model support
-**🔗 Repo:** `[ADD YOUR CRAFT REPO LINK]`
-**🌐 Live:** `[IN DEVELOPMENT]`
+- Component-based, responsive React UI with dedicated dashboard pages for API key management and service configuration
+- JWT-based authentication and real-time WebSocket notifications for secure, live updates
 
-</td>
-</tr>
-</table>
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL/MySQL
 
-<div align="center">
-
-<!-- 💡 Add more build cards above by copying the table row pattern for other projects like FORGE, VibeFlow, Nexus Meet, INTERV-SCALE, Interview Whisper -->
-`[ADD MORE BUILDS OR REMOVE THIS LINE]`
-
-</div>
-
-<br/>
+🔗 [GitHub](https://github.com/Sksahilkhan67sh/RelayHub) • [Live Demo](https://relayhub-peach.vercel.app/)
 
 ---
 
-## 📊 Player Statistics
+### 📺 Stream Vault
+Video streaming platform supporting user uploads, RTMP ingestion, and adaptive media playback.
 
 ```text
-╔════════════════════════════════════════╗
-║           PLAYER STATISTICS             ║
-╠════════════════════════════════════════╣
-║ ⭐ XP        →  GitHub Contributions     ║
-║ 🧱 Builds    →  Public Repositories      ║
-║ ⚔️ Commits   →  Code Battles Won         ║
-║ ⛏️ Mining    →  Actively Learning        ║
-╚════════════════════════════════════════╝
+📺 STREAM VAULT
+│
+├── 🎥 User Uploads
+├── 📡 RTMP Ingestion
+├── ▶️ Adaptive Playback
+├── 🐍 Flask
+├── 🐳 Docker
+├── ☁️ Vercel
+└── ☁️ Render
 ```
 
-<!-- 💡 Replace USERNAME with your GitHub username in every URL below -->
-<div align="center">
+- Optimized for concurrent sessions
+- Client deployed on Vercel, backend on Render, containerized with Docker for a production-ready, cloud-native setup
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sksahilkhan67sh&show_icons=true&theme=radical&hide_border=true&title_color=55A630&icon_color=8B5A2B&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sksahilkhan67sh&theme=radical&hide_border=true&background=0D1117&ring=55A630&fire=CB2D3E&currStreakLabel=55A630" width="48%"/>
+**Tech Stack:** Python, Flask, Docker, Vercel, Render
 
-<br/>
+🔗 [GitHub](https://github.com/Sksahilkhan67sh/MY-STREAM-VIBES) • [Live Demo](https://my-stream-vibes-client.vercel.app/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sksahilkhan67sh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=55A630" width="48%"/>
+---
 
-</div>
+### 🌐 My Portfolio
+Personal portfolio site built for speed and simplicity, no heavy frontend frameworks.
 
-<br/>
+```text
+🏠 PORTFOLIO HOUSE
+│
+├── 🧱 HTML / CSS
+├── ⚡ JavaScript
+└── 🐍 Python Flask
+```
+
+- All content centralized in a single data file — site updates without touching HTML, keeping content and structure cleanly separated
+
+**Tech Stack:** HTML, CSS, JavaScript, Python Flask
+
+🔗 [GitHub](https://github.com/Sksahilkhan67sh/PORTFOLIO_SAHIL) • [Live Demo](https://portfolio-sahil-blond.vercel.app/)
+
+---
+
+## 💼 Player XP
+
+### 🟩 Full Stack Developer Intern — Codec Technologies
+`Mar 2025 – Jun 2025`
+- Collaborated with cross-functional teams to build responsive, scalable front-end interfaces using modern JavaScript frameworks
+- Developed and integrated RESTful APIs and database-backed services supporting full-stack web applications
+- Participated in the full SDLC — requirements, system design, testing, deployment — using Git and Agile practices
+
+### 🟩 Full Stack Developer Intern — Future Intern
+`Mar 2026 – Apr 2026`
+- Built and maintained scalable RESTful APIs consumed by front-end client applications, ensuring performance, reliability, and security
+- Implemented business logic and optimized database queries across relational and NoSQL data models
+- Built authentication and error-handling flows, contributed to deployment pipelines, and followed Agile code-review practices
+
+---
+
+## 🎓 Player Progression
+
+**🎓 B.Tech in Computer Science Engineering**
+GITA Autonomous College, Bhubaneswar · 2022 – 2026 (In Progress)
+
+**📚 Higher Secondary Education (Science – PCM)**
+Municipal Higher Secondary School, Rourkela · 2020 – 2022
 
 ---
 
 ## 🏆 Advancements Unlocked
 
-<table>
-<tr>
-<td>🏆 First Repository</td>
-<td>✅ / <code>[MARK COMPLETE OR REMOVE]</code></td>
-</tr>
-<tr>
-<td>🚀 First Deployed Project</td>
-<td>✅ / <code>[MARK COMPLETE OR REMOVE]</code></td>
-</tr>
-<tr>
-<td>💻 Built a Full-Stack Application</td>
-<td>✅ / <code>[MARK COMPLETE OR REMOVE]</code></td>
-</tr>
-<tr>
-<td>🤖 Built an AI-Powered Project</td>
-<td>✅ / <code>[MARK COMPLETE OR REMOVE]</code></td>
-</tr>
-<tr>
-<td>🏢 Founded a Company</td>
-<td>✅ / <code>[MARK COMPLETE OR REMOVE]</code></td>
-</tr>
-<tr>
-<td>⚔️ First 100 Commits</td>
-<td><code>[CONFIRM & MARK]</code></td>
-</tr>
-<tr>
-<td>🔥 30-Day Contribution Streak</td>
-<td><code>[CONFIRM & MARK]</code></td>
-</tr>
-<tr>
-<td>🌟 Contributed to Open Source</td>
-<td><code>[CONFIRM & MARK]</code></td>
-</tr>
-</table>
-
-<br/>
+- 🏆 Built Full-Stack Applications
+- ⚔️ Completed Full Stack Developer Internships
+- 🧱 Built API Integration Platform (RelayHub)
+- 📺 Built Video Streaming Platform (Stream Vault)
+- 🔐 Implemented JWT Authentication
+- ⚡ Implemented WebSocket Notifications
+- 🐳 Used Docker Containerization
+- ☁️ Deployed Cloud-Based Applications
+- 🎓 Pursuing B.Tech CSE
 
 ---
 
-## 🎯 Current Quest
+## 📊 Player Statistics
 
-```text
-╔════════════════════════════════════════╗
-║           🎯 CURRENT QUEST               ║
-╠════════════════════════════════════════╣
-║ ☐ [ADD YOUR CURRENT GOAL]               ║
-║ ☐ [ADD YOUR CURRENT GOAL]               ║
-║ ☐ [ADD YOUR CURRENT GOAL]               ║
-║ ☐ [ADD YOUR CURRENT GOAL]               ║
-╚════════════════════════════════════════╝
-```
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sksahilkhan67sh&show_icons=true&theme=default&hide_border=true" alt="Sahil's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sksahilkhan67sh&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sksahilkhan67sh&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+> These cards are powered by third-party GitHub stats services. If a card ever fails to load, the rest of this profile still stands on its own.
 
 ---
 
-## 🌳 My Coding Forest
+## 🌳 My Coding World
 
-> Every green square below is another block added to my world.
+> "Every contribution adds another block to the world."
 
-<div align="center">
+📌 See the live contribution graph on this profile page — right below this README.
 
-<!-- 💡 Replace USERNAME to render your real contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sksahilkhan67sh&theme=react-dark&hide_border=true&bg_color=0D1117&color=55A630&line=55A630&point=FFFFFF"/>
+---
 
-</div>
+## 🌐 Multiplayer
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Sksahilkhan67sh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sahil--dev--py/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio4-0-henna.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sksahilkhan67sh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:sahilkhan67sh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🧠 Developer Philosophy
 
-> *"Every bug is just another mob to defeat — and I never leave a mob unfought."*
+> ⛏️ Mine knowledge.
 >
-> *"A project doesn't start with a plan. It starts with a single block placed with intent."*
+> 🧱 Craft useful things.
 >
-> *"Keep mining. Keep crafting. Keep shipping."*
-
-<br/>
+> ⚔️ Defeat bugs.
+>
+> 🚀 Ship the build.
+>
+> 🔄 Learn → Build → Break → Fix → Repeat.
 
 ---
-
-## 🌐 Multiplayer — Let's Connect
-
-<div align="center">
-
-<!-- 💡 Fill in your real links below and delete the ones you don't use -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Sksahilkhan67sh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://portfolio-sahil-chi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:ADDYOUREMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 ```text
-🌙 The world is loading...
-
-⛏️  Mine.
-🧱  Build.
-⚔️  Debug.
-🚀  Deploy.
-
-Thanks for visiting my world!
+╔══════════════════════════════════════════╗
+║          🌍 WORLD: SAHIL_KHAN            ║
+║                                           ║
+║     ⛏️ Mine • 🧱 Build • ⚔️ Debug        ║
+║                                           ║
+║        🚀 Keep Building. Keep Coding.    ║
+╚══════════════════════════════════════════╝
 ```
 
-<!-- 💡 Replace USERNAME to activate your own visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=Sksahilkhan67sh&label=WORLD+VISITORS&color=55A630&style=flat-square"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D4E37,100:2E7D32&height=100&section=footer"/>
-
-</div>
+<p align="center"><b>Thanks for visiting my world! ⭐</b></p>
