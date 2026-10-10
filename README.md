@@ -20,7 +20,7 @@
 name: Sahil Khan
 class: Full-Stack Developer
 education: B.Tech CSE | 2022–2026
-current_mission: Build reliable, production-ready software
+current_mission: Build reliable, production-ready software & Powerfull SAAS
 quests:
   - Full-stack development
   - AI-powered applications
