@@ -1,7 +1,6 @@
-name: Generate contribution snake
+name: Generate Neon Contribution Snake
 
 on:
-  # Refresh the animation daily and whenever the workflow is changed.
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
@@ -17,15 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate contribution snake SVGs
+      - name: Generate neon and light-mode snake animations
         uses: Platane/snk@v3
         with:
           github_user_name: Sksahilkhan67sh
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-neon.svg?color_snake=%2300F5B8&color_dots=%230D1117,%230B3D32,%2300A878,%2300D9A6,%237CFFE0
+            dist/github-snake-light.svg?color_snake=%2300785A&color_dots=%23EBEDF0,%239BE9A8,%2340C463,%2330A14E,%232161E5
 
-      - name: Publish animation to output branch
+      - name: Publish generated animations to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
